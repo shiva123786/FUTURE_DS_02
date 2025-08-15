@@ -51,4 +51,6 @@ This dashboard helps answer critical business questions such as:
 
 ## 🖼️ Dashboard Preview
 
+<img width="1801" height="1016" alt="Screenshot 2025-08-15 062414" src="https://github.com/user-attachments/assets/faed0bcf-f85e-4196-bf67-351b2d519aca" />
+
 
